@@ -6,7 +6,6 @@ Welcome to the SQL Concepts Repository! This repository contains a collection of
 
 - [Introduction](#introduction)
 - [Scripts Overview](#scripts-overview)
-- [How to Use](#how-to-use)
 
 ## Introduction
 
@@ -43,12 +42,3 @@ SQL (Structured Query Language) is a powerful tool for managing and manipulating
 - **Window Functions**: Explains window functions and their usage.
 - **Common Table Expressions (CTEs)**: Demonstrates the use of CTEs for writing complex queries.
 - **Stored Procedures**: Shows how to create and use stored procedures.
-
-Feel free to explore the scripts and experiment with them on your own!
-
-## How to Use
-
-1. Clone or download this repository to your local machine.
-2. Open your preferred SQL editor or database management tool.
-3. Execute the SQL scripts in your database environment to see the results.
-4. Feel free to modify the scripts or use them as reference material for your projects.
